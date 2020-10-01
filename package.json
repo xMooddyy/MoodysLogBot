@@ -17,6 +17,7 @@
     "klaw": "^3.0.0",
     "moment": "^2.29.0",
     "node-fetch": "^2.6.1",
-    "trello": "^0.10.0"
+    "trello": "^0.10.0",
+    "trello-events": "^0.1.7"
   }
 }

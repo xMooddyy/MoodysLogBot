@@ -1,4 +1,4 @@
-require('dotenv').config
+require('dotenv').config();
 
 String.prototype.toProperCase = function() {
 	return this.toLowerCase().replace(/(^|[\s.])[^\s.]/gm, (s) => s.toUpperCase());
