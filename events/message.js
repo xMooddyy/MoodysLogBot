@@ -63,5 +63,5 @@ module.exports = class {
       console.log(e);
       message.channel.send(`An error occured while executing this command! Report this to the bot owner: \`${e}\``);
     }
-  }
+  };
 };
